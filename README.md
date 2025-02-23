@@ -9,7 +9,6 @@ This is a **Note-Taking App** built with **Kotlin in Android Studio**, featuring
 - ✅ **Create and manage checklists**  
 - 📂 **Store data locally with SQLite** for offline access  
 - 🔍 **Search functionality** for quick access to notes  
-- 🗄 **Categorization and organization** (if applicable)  
 - 🎨 **Simple and user-friendly UI**  
 
 ## 🛠 Tech Stack  
