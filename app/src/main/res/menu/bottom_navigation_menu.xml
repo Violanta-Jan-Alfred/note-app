@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_notes"
+        android:icon="@drawable/pencil"
+        android:iconTint="@color/champagne_pink"
+        android:title="Notes"/>
+    <item
+        android:id="@+id/navigation_tasks"
+        android:icon="@drawable/tasks"
+        android:title="Tasks" />
+</menu>

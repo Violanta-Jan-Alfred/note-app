@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Todolist" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="BottomNavigationTextAppearance" parent="TextAppearance.AppCompat.Small">
+        <item name="android:fontFamily">@font/montserrat_regular</item>
+    </style>
+    <style name="Theme.Todolist" parent="Base.Theme.Todolist" />
+</resources>
