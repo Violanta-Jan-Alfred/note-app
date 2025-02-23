@@ -1,14 +1,14 @@
-# 📝 Note App with Checklist - A CRUD-Based Android App  
+# 📝 Note App with Checklist - A Personal CRUD-Based Android Project  
 
-This is a **Note-Taking App** built with **Kotlin in Android Studio**, featuring **CRUD (Create, Read, Update, Delete)** functionality for both **notes** and **checklists**. The app uses **SQLite** as its local database to store and manage data efficiently without requiring an internet connection.  
+This is a **personal project** built with **Kotlin in Android Studio**, featuring **CRUD (Create, Read, Update, Delete)** functionality for both **notes** and **checklists**. The app uses **SQLite** as its local database to store and manage data efficiently without requiring an internet connection.  
 
-> **⚠ Disclaimer:** This project was created **for learning purposes only** and is not intended for production use.  
+> **⚠ Disclaimer:** This project was created as a **personal project for learning purposes only** and is not intended for production use.  
 
 ## 🚀 Features  
 - 📝 **Create, edit, and delete notes**  
 - ✅ **Create and manage checklists**  
 - 📂 **Store data locally with SQLite** for offline access  
-- 🔍 **Search functionality** for quick access to notes   
+- 🔍 **Search functionality** for quick access to notes  
 - 🎨 **Simple and user-friendly UI**  
 
 ## 🛠 Tech Stack  
@@ -17,5 +17,4 @@ This is a **Note-Taking App** built with **Kotlin in Android Studio**, featuring
 - **Database:** SQLite  
 
 ## 🎯 Purpose  
-This project was developed to **demonstrate local database management in Android** using **SQLite**. It serves as a **learning resource** for understanding CRUD operations and local storage in mobile apps.  
-
+This project was developed as a **personal learning experience** to explore **local database management in Android** using **SQLite**. It serves as a **practice project** for understanding CRUD operations and local storage in mobile apps.  
